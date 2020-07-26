@@ -93,9 +93,9 @@ class Body extends React.Component {
       
       <div class ="ui grid" style={{marginLeft:'50px'}}>
         
-        <div class ="four wide column" style={{marginRight:'50px'}} >
+        <div class ="four wide column" style={{marginRight:'50px'}}>
         
-        <div class="ui segment">
+        <div class="ui segment" style={{backgroundColor:'#f2f2f2'}}>
           <h5>latest products</h5>
            <div class ="inline field">
            <i class="dropbox icon" style={{color:"#4d4dff",fontSize:'25px'}}></i>
